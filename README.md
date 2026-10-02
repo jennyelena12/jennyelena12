@@ -57,7 +57,6 @@ I like turning AI and ML ideas into real, usable apps, especially on **Swift / i
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jennyelena12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennyelena12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
