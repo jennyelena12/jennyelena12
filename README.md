@@ -53,18 +53,6 @@ I like turning AI and ML ideas into real, usable apps, especially on **Swift / i
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jennyelena12&show_icons=true&hide=issues,contribs&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jennyelena12&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
----
-
 ## 🔗 Connect
 
 <p align="center">
