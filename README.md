@@ -2,7 +2,7 @@
   <img src="header.jpeg" width="100%" />
 </p>
 
-<h1 align="center">Elena Angkawi</h1>
+<!-- <h1 align="center">Elena Angkawi</h1>
 
 <p align="center">
   <b>Data Science undergraduate @ BINUS University</b><br/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
   <img src="https://img.shields.io/badge/Machine_Learning-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift_/_iOS-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-</p>
+</p> -->
 
 ---
 
@@ -42,7 +42,7 @@ I like turning AI and ML ideas into real, usable apps, especially on **Swift / i
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,swift,c,html,css,js,swiftui,xcode,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,swift,c,html,css,swiftui,tensorflow,pytorch" />
 </p>
 
 ---
