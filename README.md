@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.jpeg" width="100%" />
+  <img src="header.png" width="100%" />
 </p>
 
 <!-- <h1 align="center">Elena Angkawi</h1>
