@@ -41,9 +41,17 @@ I like turning AI and ML ideas into real, usable apps, especially on **Swift / i
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,swift,c,html,css,swiftui,tensorflow,pytorch" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="48" /><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=swift" width="48" /><br/><sub><b>Swift</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="48" /><br/><sub><b>C</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48" /><br/><sub><b>HTML</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48" /><br/><sub><b>CSS</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br/><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br/><sub><b>PyTorch</b></sub></td>
+  </tr>
+</table>
 
 ---
 
