@@ -46,8 +46,8 @@ I like turning AI and ML ideas into real, usable apps, especially on **Swift / i
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="48" /><br/><sub><b>C</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48" /><br/><sub><b>HTML</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48" /><br/><sub><b>CSS</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=javascript" width="48" /><br/><sub><b>JavaScript</b></sub></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br/><sub><b>TensorFlow</b></sub></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br/><sub><b>PyTorch</b></sub></td>
   </tr>
 </table>
 
