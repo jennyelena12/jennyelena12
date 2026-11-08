@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="header.png" width="100%" />
 </p>
 
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Machine_Learning-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift_/_iOS-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 </p> -->
-
+ -->
 ## 👋 About
 
 I'm a 7th-semester Data Science student focused on **AI, large language models, and machine learning**, with a strong pull toward **software engineering**.
