@@ -17,8 +17,7 @@
 </p> -->
 ## 👋 About
 
-I'm a 7th-semester Data Science student focused on **AI, large language models, and machine learning**, with a strong pull toward **software engineering**.
-I like turning AI and ML ideas into real, usable apps, especially on **Swift / iOS**.
+I'm a 7th-semester Data Science student focused on **AI, large language models, and machine learning**, with a strong pull toward **software engineering especially on iOS**.
 
 ---
 
